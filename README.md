@@ -16,6 +16,7 @@ This repository contains the research code used in the manuscript and is provide
 | ICC_final_results.csv | Radiomic feature stability results |
 | radiomics_features_lgg.csv | Extracted radiomic features |
 | all_folds_combined.csv | Combined cross-validation results |
+| icc_perturbation_analysis | computes ICC-based feature stability across mask perturbations to select the 16 stable radiomics features used in the classifier |
 
 ## Dataset
 
